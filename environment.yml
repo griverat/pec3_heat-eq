@@ -1,0 +1,17 @@
+name: pec3
+channels:
+  - conda-forge
+dependencies:
+  - hvplot
+  - jupyterlab
+  - xarray
+  - numpy
+  - scipy
+  - nbqa
+  - pyupgrade
+  - black
+  - isort
+  - cmocean
+  - sympy
+  - ffmpeg-python
+prefix: /home/dangomelon/anaconda3/envs/pec3
