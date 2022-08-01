@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DangoMelon/pec3_heat-eq/HEAD?labpath=Proyecto2%2Fheat_eq.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DangoMelon/pec3_heat-eq/blob/master/Proyecto2/heat_eq.ipynb)
 
-This repo contains the final project for the course Scientific Computing in Python.
+This repo contains the final project for the course Scientific Computing in Python. You can run the notebook in either Binder (slower, more likely to crash the kernel) or in Google Colab (faster, works fine).
 
 The equation is:
 
