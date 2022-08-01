@@ -2,6 +2,7 @@ name: pec3
 channels:
   - conda-forge
 dependencies:
+  - python=3.10.5
   - hvplot
   - jupyterlab
   - xarray
@@ -14,4 +15,5 @@ dependencies:
   - cmocean
   - sympy
   - ffmpeg-python
+  - pre-commit
 prefix: /home/dangomelon/anaconda3/envs/pec3
